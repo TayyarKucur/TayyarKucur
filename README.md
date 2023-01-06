@@ -2,7 +2,7 @@
 👋 Hi, my name is Tayyar!<br>💬 I am an data analyst and scientist.
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyar-kucur)
 [![Mail](https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](kucurtayyar@gmail.com)
 
