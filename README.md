@@ -1,5 +1,5 @@
 # 👨  About Me:
-👋 Hi, my name is Tayyar!<br>💬 I am an data analyst and scientist.
+👋 Hi, my name is Tayyar!<br>💬 I am an data analyst and scientist from Germany.
 
 
 ### 🌐 Socials:
